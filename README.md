@@ -1,4 +1,4 @@
-- [ ] C
+- [x] C
 - [ ] python
 - [ ] C++
 - [ ] Java
