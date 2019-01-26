@@ -1,16 +1,16 @@
 - [x] C
-- [ ] python
-- [ ] C++
-- [ ] Java
-- [ ] Algorithms
-- [ ] Data Structures
-- [ ] Oracle Database
+- [x] python
+- [x] C++
+- [x] Java
+- [x] Algorithms
+- [x] Data Structures
+- [x] Oracle Database
 - [ ] Matlab
 - [ ] Neural Network Algorithm
 - [ ] Deep Learnig
 - [ ] Pandas (Python)
 - [ ] TensorFlow
-- [ ] Advance Networking
-- [ ] Android Development
+- [x] Advance Networking
+- [x] Android Development
 - [ ] Ios Development
-- [ ] C#
+- [x] C#
