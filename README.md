@@ -8,9 +8,9 @@
 - [ ] Matlab
 - [ ] Neural Network Algorithm
 - [ ] Deep Learnig
-- [ ] Pandas (Python)
+- [x] Pandas (Python)
 - [ ] TensorFlow
 - [x] Advance Networking
 - [x] Android Development
-- [x] Ios Development
+- [ ] Ios Development
 - [x] C#
