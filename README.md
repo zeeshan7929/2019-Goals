@@ -5,7 +5,7 @@
 - [x] Algorithms
 - [x] Data Structures
 - [x] Oracle Database
-- [ ] Matlab
+- [-] Matlab
 - [ ] Neural Network Algorithm
 - [ ] Deep Learnig
 - [x] Pandas (Python)
